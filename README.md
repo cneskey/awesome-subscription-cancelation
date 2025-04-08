@@ -13,3 +13,9 @@ A curated list of awesome [subscription cancelation]([https://en.wikipedia.org/w
 
 
 <!-- /MarkdownTOC -->
+
+## Misc
+  1. [LinkedIn Premium](https://www.linkedin.com/manage/purchases-payments/purchases/)
+  1. [Amazon Channels](https://www.amazon.com/gp/video/settings/channels)
+  1. [Audible](https://www.audible.com/account/membership/cancel/show-offers)
+  2. [Amazon Prime](https://www.amazon.com/mm/pipeline/cancellation)
