@@ -10,13 +10,14 @@ A curated list of awesome [subscription cancelation]([https://en.wikipedia.org/w
 
 - [Awesome Cancelation Pages  ](#awesome-cancelation-pages--)
   - [Table of Contents](#table-of-contents)
+  - [Entertainment](#Entertainment)
 
 
 <!-- /MarkdownTOC -->
 
-## Misc
+## Entertainment
   1. [LinkedIn Premium](https://www.linkedin.com/manage/purchases-payments/purchases/)
   1. [Amazon Channels](https://www.amazon.com/gp/video/settings/channels)
   1. [Audible](https://www.audible.com/account/membership/cancel/show-offers)
-  2. [Amazon Prime](https://www.amazon.com/mm/pipeline/cancellation)
-  3. [Netflix](https://www.netflix.com/cancelplan)
+  1. [Amazon Prime](https://www.amazon.com/mm/pipeline/cancellation)
+  1. [Netflix](https://www.netflix.com/cancelplan)
