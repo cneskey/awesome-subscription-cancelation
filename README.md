@@ -19,3 +19,4 @@ A curated list of awesome [subscription cancelation]([https://en.wikipedia.org/w
   1. [Amazon Channels](https://www.amazon.com/gp/video/settings/channels)
   1. [Audible](https://www.audible.com/account/membership/cancel/show-offers)
   2. [Amazon Prime](https://www.amazon.com/mm/pipeline/cancellation)
+  3. [Netflix](https://www.netflix.com/cancelplan)
