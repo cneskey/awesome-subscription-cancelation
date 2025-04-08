@@ -1,4 +1,4 @@
-# awesome-subscription-cancelation
+# Awesome Subscription Cancelation
 
 A research project into cancelation pages that typically aren't convenient (on purpose????).
 
